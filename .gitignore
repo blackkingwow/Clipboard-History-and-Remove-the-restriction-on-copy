@@ -1,0 +1,5 @@
+clipboard_history/build/
+clipboard_history/__pycache__/
+clipboard_history/*.spec
+clipboard_history/config.json
+clipboard_history/dist/
